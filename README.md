@@ -1,5 +1,5 @@
 # VADSTI_Spring_2025
- VADSTI Spring 2025 Jan 24, 2025
+ VADSTI Spring 2025 
 The primary objective of the 2025 VADSTI Spring Training Series is to provide training in data science fundamentals and cloud computing skills with hands-on application to minority health and health disparity datasets.  Over the course of the training program, participants will:
 
 Be introduced to the foundations of data science.
