@@ -1,0 +1,2 @@
+Week 2 | Module 2A | Introduction to Python I
+Instructor: Moussa Doumbia, Ph.D. This introductory course will be your guide to learning how to set up the working environment and use the power of Python to analyze data, create beautiful […]

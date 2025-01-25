@@ -1,0 +1,2 @@
+Week 1 | Module 1 | Foundations of Data Science with Python
+Instructor: Ebelechukwu Nwafor, PhD. This module introduces students to the fundamental concepts of data science, including data collection, cleaning, exploration, and basic analysis

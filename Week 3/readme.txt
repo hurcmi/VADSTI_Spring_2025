@@ -1,0 +1,2 @@
+Week 3 | Module 2B | Introduction to Python II
+Instructor: Moussa Doumbia, Ph.D. The module builds upon Introduction to Python I. Topics we include: Web scraping with python Use matplotlib and seaborn for data visualizations Use plotly for interactive […]

@@ -1,0 +1,2 @@
+Week 4 | Module 3A | Experimentation in Data Science (A/B Testing and Statistical Analyses) I
+Instructor: Ronald Doku, Ph.D. This topic covers the principles and applications of A/B testing, a foundational technique for making data-driven decisions in healthcare, business and various other industries. The session […]

@@ -1,0 +1,2 @@
+Week 5 | Module 3B | Experimentation in Data Science (A/B Testing and Statistical Analyses) II
+Instructor: Ronald Doku, Ph.D. Part II will build on concepts discuss in Part I. We will go through examples of how to conduct an A/B test on a real-world use […]

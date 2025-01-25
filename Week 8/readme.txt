@@ -1,0 +1,2 @@
+Week 8 | Module 5 | Introduction to Machine Learning I 
+Instructor: Ebelechukwu Nwafor, PhD This two-part module delves into the core principles of machine learning. In Part I, students will learn about supervised learning techniques, covering linear regression, classification, and […]
